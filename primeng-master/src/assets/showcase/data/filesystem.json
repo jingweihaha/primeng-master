@@ -1,0 +1,94 @@
+{
+    "data":
+    [  
+        {  
+            "data":{  
+                "name":"Div 1",
+                "size":"D0001",
+                "type":"Folder"
+            },
+            "children":[
+                {  
+                    "data":{  
+                        "name":"Work",
+                        "size":"55kb",
+                        "type":"Folder"
+                    },
+                    "children":[  
+                        {  
+                            "data":{  
+                                "name":"Expenses.doc",
+                                "size":"30kb",
+                                "type":"Document"
+                            }
+                        },
+                        {  
+                            "data":{  
+                                "name":"Resume.doc",
+                                "size":"25kb",
+                                "type":"Resume"
+                            }
+                        }
+                    ]
+                },
+                {  
+                    "data":{  
+                        "name":"Home",
+                        "size":"20kb",
+                        "type":"Folder"
+                    },
+                    "children":[  
+                        {  
+                            "data":{  
+                                "name":"Invoices",
+                                "size":"20kb",
+                                "type":"Text"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {  
+            "data":{  
+                "name":"Div 2",
+                "size":"D0002",
+                "type":"Folder"
+            },
+            "children":[  
+                {  
+                    "data":{  
+                        "name":"Sub Div 1",
+                        "size":"S000A1",
+                        "type":"Picture"
+                    },
+                    "children":[  
+                        {  
+                            "data":{  
+                                "name":"Sub Div 2.1",
+                                "size":"Sv000A1",
+                                "type":"Document"
+                            }
+                        },
+                        {  
+                            "data":{  
+                                "name":"Sub Div 2.2",
+                                "size":"Sv000A2",
+                                "type":"Resume"
+                            },
+                            "children":[
+                                {
+                                    "data":{
+                                        "name":"Item 1",
+                                        "size":"I000A1",
+                                        "type":"Folder"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
